@@ -53,4 +53,6 @@ body {
     .post h1 a, .post h1 a:visited {
     	color: #25730B;
     }
-
+.glyphicon {
+	top: 24px !important;
+}
